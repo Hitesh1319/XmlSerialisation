@@ -1,0 +1,15 @@
+{
+  "email":"Hitesh@gmail.com",
+  "firstName":"Hitesh",
+  "lastName":"Sharma",
+  "address":
+  {
+    "state":"Haryana",
+    "country":"India",
+    "abc":
+    {
+      "district":"Panchkula",
+      "pin":134109
+    }
+  }
+}
